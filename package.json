@@ -4,7 +4,7 @@
   "homepage": "https://vue3-simple-icons.wyatt-herkamp.dev",
   "description": "Simple Icons as Vue components.",
   "repository": {
-    "url": "wyatt-herkamp/vue3-simple-icons",
+    "url": "wrietberg/vue3-simple-icons",
     "type": "git"
   },
   "main": "./dist/vue3-simple-icons.umd.js",
